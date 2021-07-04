@@ -1,9 +1,6 @@
 <center><a  href="#"><img width="100%" height="20%" src="https://cdn.discordapp.com/attachments/563319722398056448/861382917205131274/Orange_Retro_Music_YouTube_Channel_Art_3.png" /></a></center>
 
-<audio id="myAudio" controls="">
-<source src="https://motrex.ml/motrexcv.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+
 
 <h1 align="center"> <img src="https://cdn.discordapp.com/attachments/563319722398056448/861328055208771644/2df6b42d-2ef1-44c3-93d5-5b44642af6d8.gif" width="60px">Motrex profile </h1>
 <h3 align="center">Hi, I am Motrex and I would like to introduce myself to you. I live in Germany in Munich. I love the music, sound engineering and programming very much. I love helping others, I love video games, I love playing Ark survival evolved, it's a very cool game,ummm and I love to eat, I love Italian pasta and pizza, and I love Chinese food, and sometimes I like to bake cake, I worked with a lot and helped a lot, so don't hesitate to ask for help.
