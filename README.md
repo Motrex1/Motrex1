@@ -1,9 +1,5 @@
-<CENTER><a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/563319722398056448/861325787893202984/logo_motrex.png" height="175px"/></a></CENTER>
-<style>
-*{
-background-color: #353353;
-}
-</style>
+<center><a  href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/563319722398056448/861325787893202984/logo_motrex.png" height="175px"/></a></center>
+
 <h1 align="center"> <img src="https://cdn.discordapp.com/attachments/563319722398056448/861328055208771644/2df6b42d-2ef1-44c3-93d5-5b44642af6d8.gif" width="60px">Motrex profile </h1>
 <h3 align="center">Hi, I am Motrex and I would like to introduce myself to you. I live in Germany in Munich. I love the music, sound engineering and programming very much. I love helping others, I love video games, I love playing Ark survival evolved, it's a very cool game,ummm and I love to eat, I love Italian pasta and pizza, and I love Chinese food, and sometimes I like to bake cake, I worked with a lot and helped a lot, so don't hesitate to ask for help.
 
@@ -31,16 +27,16 @@ background-color: #353353;
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://ionicframework.com/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/721079359980437597/840055945299361792/logo.png"  width="48"/> </a> 
+    <a style="padding-right:8px;" href="https://flutter.dev/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"  width="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -58,7 +54,6 @@ background-color: #353353;
     <a href="https://github.com/Motrex1/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Motrex1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Motrex1/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motrex1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
@@ -72,11 +67,9 @@ background-color: #353353;
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://discord.gg/SCpRB9x9RA"><img src="https://static.wikia.nocookie.net/roblox-minitoons-scp-containment-breach/images/1/18/Yeet.png/revision/latest?cb=20201220044214"  width="70"/></a>
+<a href = "https://www.youtube.com/channel/UClufP953kgVRMykWf00cWOA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"  width="70"/></a>
+<a href = "https://motrex.ml"><img src="https://cdn.discordapp.com/attachments/776454054540083251/791973297130176542/image_1.png"  width="90"/></a>
 </p>
 
 ## ❤ Views and Followers
