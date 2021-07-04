@@ -5,19 +5,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Aliens.Services](https://Aliens.Services/)**
+- 💡 I’m currently working on **[Aliens.Services](https://Aliens.Services/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 👨‍🎓 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I live in Germany **"Munich"**
+- 🌎 I live in Germany **"Munich"**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://motrex.ml)**
+- 🔰 All of my projects are available at **[My Portfolio](https://motrex.ml)**
 
-- 📫 How to reach me **discord: !Motrex.#1000**
+- 💌 How to reach me **discord: !Motrex.#1000**
 
 
 
-## 🚀 Languages and Tools:
+## 🔮 Languages and framework:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48"/> </a>
