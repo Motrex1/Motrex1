@@ -1,4 +1,4 @@
-<center><a  href="#"><img width="100%" height="20%" src="https://cdn.discordapp.com/attachments/563319722398056448/861382917205131274/Orange_Retro_Music_YouTube_Channel_Art_3.png" /></a></center>
+<center><a href="#"><img width="100%" height="20%" src="https://cdn.discordapp.com/attachments/563319722398056448/861382917205131274/Orange_Retro_Music_YouTube_Channel_Art_3.png" /></a></center>
 
 
 
