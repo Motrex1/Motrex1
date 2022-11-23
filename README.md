@@ -50,13 +50,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Motrex1/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Motrex1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Motrex1/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motrex1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
 
 <br/>
 <br/>
@@ -71,7 +64,7 @@
 
 <a href = "https://discord.gg/SCpRB9x9RA"><img src="https://static.wikia.nocookie.net/roblox-minitoons-scp-containment-breach/images/1/18/Yeet.png/revision/latest?cb=20201220044214"  width="70"/></a>
 <a href = "https://www.youtube.com/channel/UClufP953kgVRMykWf00cWOA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"  width="70"/></a>
-<a href = "https://motrex.ml"><img src="https://cdn.discordapp.com/attachments/776454054540083251/791973297130176542/image_1.png"  width="90"/></a>
+<a href = "https://motrex.dev"><img src="https://cdn.discordapp.com/attachments/776454054540083251/791973297130176542/image_1.png"  width="90"/></a>
 </p>
 
 ## ❤ Views and Followers
